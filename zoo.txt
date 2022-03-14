@@ -1,0 +1,10 @@
+visual encodings
+scatter plots, use position encoding
+Moreover, stacking may 
+make it difficult to accurately interpret 
+trends that lie atop other curves.
+Horizon Graphs
+Q-Q Plots
+SPLOM 
+Parallel Coordinates
+seriation
